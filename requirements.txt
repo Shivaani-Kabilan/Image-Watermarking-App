@@ -1,8 +1,5 @@
 Flask
-imutils
-Keras
+numpy
 opencv-python-headless
 Pillow
-tensorflow
-scikit-image
 gunicorn
