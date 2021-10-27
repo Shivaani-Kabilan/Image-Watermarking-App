@@ -1,4 +1,3 @@
-
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
@@ -13,8 +12,3 @@ Step 6: Run application by command;
 python app.py
 You will get url copy it and paste in browser.
 Step 7: You have sample_data folder where you can get images to test.
-=======
-# Image-Watermarking-App
-
-Image watermarking is used by organisations and people to ensure that their work is not being copied or used without prior permissions. In this project, a logo watermark and a text watermark are being added to the original image using computer vision. 
->>>>>>> 7ea093a83264cd5888bb4283b97374f38e46eae2
