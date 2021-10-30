@@ -12,7 +12,7 @@ Step 6: Run application by command;
 python app.py
 You will get url copy it and paste in browser.
 Step 7: You have sample_data folder where you can get images to test.
-<<<<<<< HEAD
+
 =======
 =======
 # Image-Watermarking-App
@@ -21,4 +21,3 @@ Image watermarking is used by organisations and people to ensure that their work
 
   
   https://www.udemy.com/course/intro-to-machine-learning-course/
->>>>>>> 2c387880493736915231d2a5c8e8fa0fa9ebfd3c
